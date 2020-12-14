@@ -64,7 +64,7 @@ close.onclick = function()
   if(give.length == 0){
  peopleWrap.parentNode.removeChild(peopleWrap);
 		choose.parentNode.removeChild(choose);
-		result.innerHTML = "<h2>All done!</h2>";
+		result.innerHTML = "<h2>Završeno izvlačenje!</h2>";
 		close.innerHTML = "";
 	}
 };
