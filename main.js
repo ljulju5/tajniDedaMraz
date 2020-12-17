@@ -8,7 +8,8 @@ var give = ['Milanče', 'Nataša', 'Sandra P.', 'Bojana', 'Ljubica',
            'Marko F', 'Igor', 'Sandra Z.', 'Toza', 'Marko Z', 
            'Miško', 'Marko M', 'Dragana', 'Aleg', 'Piva', 
            'Tanja', 'Boris', 'Branko', 'Ana Čanak', 'Miloš', 
-           'Nebojša', 'Pekić', 'Kaća', 'Dejan'];
+           'Nebojša', 'Pekić', 'Kaća', 'Dejan', 'Sale' 
+           'Vicko'];
 give.sort();
 give.reverse();
 var receive = give.concat();
