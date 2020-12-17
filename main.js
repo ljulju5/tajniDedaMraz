@@ -4,10 +4,11 @@ window.onload = function()
 };
 
 var give = ['Milanče', 'Nataša', 'Sandra P.', 'Bojana', 'Ljubica',
-           'Lela', 'Jeca velika', 'Jeca mala', 'Ana Rajić', 'Maja', 
+           'Lela', 'Jeca velika', 'Jeca mala', 'Ana Petković', 'Maja', 
            'Marko F', 'Igor', 'Sandra Z.', 'Toza', 'Marko Z', 
            'Miško', 'Marko M', 'Dragana', 'Aleg', 'Piva', 
-           'Tanja', 'Boris', 'Branko', 'Ana Čanak'];
+           'Tanja', 'Boris', 'Branko', 'Ana Čanak', 'Miloš', 
+           'Nebojša', 'Pekić', 'Kaća', 'Dejan'];
 give.sort();
 give.reverse();
 var receive = give.concat();
